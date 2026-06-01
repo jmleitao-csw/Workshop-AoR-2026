@@ -6,10 +6,6 @@ Use this folder together with `../../exercises/git-workshop.md`.
 
 - `src/main/java/workshop/git/GreetingService.java`
 
-## Instructor/reference file
-
-- `solutions/workshop/git/GreetingService.java`
-
 ## Suggested setup for the workshop
 
 1. Start on `main` with the starter file
