@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="sts-snapshots" />
+      <option name="name" value="STS Snapshot Repository" />
+      <option name="url" value="https://repo.critical.pt/repository/delivery-sts-commons-maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="csw-releases" />
+      <option name="name" value="Releases Repository" />
+      <option name="url" value="https://repo.critical.pt/repository/delivery-dccecosdev-maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="csw-snapshots" />
+      <option name="name" value="Snapshot Repository" />
+      <option name="url" value="https://repo.critical.pt/repository/delivery-dccecosdev-maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.critical.pt/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="csw-nexus-redhat" />
+      <option name="name" value="Red Hat Repository" />
+      <option name="url" value="https://repo.critical.pt/repository/maven2-red-hat/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sts-reuse-snapshots" />
+      <option name="name" value="STS Reuse Snapshot Repository" />
+      <option name="url" value="https://repo.critical.pt/repository/delivery-stsreuse-maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sts-reuse-releases" />
+      <option name="name" value="STS Reuse Releases Repository" />
+      <option name="url" value="https://repo.critical.pt/repository/delivery-stsreuse-maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="csw-atlassian" />
+      <option name="name" value="Atlassian Repository" />
+      <option name="url" value="https://repo.critical.pt/repository/csw-atlassian-maven-proxy/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sts-releases" />
+      <option name="name" value="STS Releases Repository" />
+      <option name="url" value="https://repo.critical.pt/repository/delivery-sts-commons-maven-group/" />
+    </remote-repository>
+  </component>
+</project>
