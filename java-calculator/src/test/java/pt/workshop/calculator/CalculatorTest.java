@@ -52,7 +52,7 @@ class CalculatorTest {
 
     @Test
     void shouldReturnSameNumber_WhenSubtractingZero() {
-        assertTrue(true);
+        assertEquals(7, calculator.subtract(7.0,0));
     }
 
     @Test
