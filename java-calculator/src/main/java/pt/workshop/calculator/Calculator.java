@@ -38,5 +38,4 @@ public class Calculator {
         return a * b;
     }
 
-    // TODO: implement divide(double a, double b)
 }
